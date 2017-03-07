@@ -1,0 +1,3 @@
+@namespace(ncqrs);
+
+@license(LGPL);
